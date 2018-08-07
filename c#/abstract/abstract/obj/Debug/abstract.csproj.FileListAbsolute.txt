@@ -1,0 +1,7 @@
+F:\语言\c#\abstract\abstract\bin\Debug\@abstract.exe.config
+F:\语言\c#\abstract\abstract\bin\Debug\@abstract.exe
+F:\语言\c#\abstract\abstract\bin\Debug\@abstract.pdb
+F:\语言\c#\abstract\abstract\obj\Debug\abstract.csprojResolveAssemblyReference.cache
+F:\语言\c#\abstract\abstract\obj\Debug\abstract.csproj.CoreCompileInputs.cache
+F:\语言\c#\abstract\abstract\obj\Debug\@abstract.exe
+F:\语言\c#\abstract\abstract\obj\Debug\@abstract.pdb

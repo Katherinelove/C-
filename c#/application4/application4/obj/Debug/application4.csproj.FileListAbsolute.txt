@@ -1,0 +1,6 @@
+F:\语言\c#\application4\application4\bin\Debug\application4.exe.config
+F:\语言\c#\application4\application4\bin\Debug\application4.exe
+F:\语言\c#\application4\application4\bin\Debug\application4.pdb
+F:\语言\c#\application4\application4\obj\Debug\application4.csproj.CoreCompileInputs.cache
+F:\语言\c#\application4\application4\obj\Debug\application4.exe
+F:\语言\c#\application4\application4\obj\Debug\application4.pdb
